@@ -160,7 +160,7 @@
 
 -  Interactive dashboard for **water quality analysis**
 -  Monitoring of **chemical consumption** (chlorine, pH-, flocculant, anti-algae, etc.)
--  Automated KPIs (totals, cost per customer, pH tracking)
+-  Automatically calculates key performance indicators (chemical consumption, cost per customer, and pH compliance)
 -  Data cleaning and transformation from **Excel**
 -  Standalone executable generated with **PyInstaller**
 
