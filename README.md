@@ -21,7 +21,7 @@
 ##  About Me
 
 ```python
-class LaylaKaddani:
+  LaylaKaddani:
     role        = "Engineering Student in Cybersecurity"
     school      = "EiJV – École d'Ingénieurs Jules Verne, Amiens (CTI, SecNumedu)"
     degree      = "Master's level (Bac+5) — expected 2028"
