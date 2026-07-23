@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🔐 Seeking a 24-month Apprenticeship in Cybersecurity — September 2026
+###  Seeking a 24-month Apprenticeship in Cybersecurity — September 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Layla%20KADDANI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-kaddani-125294306/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-laylakaddani.github.io-0033CC?style=for-the-badge&logo=github&logoColor=white)](https://laylakaddani.github.io/Portfolio_Layla.k/)
@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```python
 class LaylaKaddani:
@@ -32,7 +32,7 @@ class LaylaKaddani:
   
 ```
 
-> 💡 **Double expertise: Embedded Systems + Cybersecurity**
+>  **Double expertise: Embedded Systems + Cybersecurity**
 > I understand connected systems from both their hardware logic and their vulnerabilities.
 
 ---
@@ -116,13 +116,55 @@ class LaylaKaddani:
 <div align="center">
 
 ###  Environmental Monitoring Dashboard
-[![Portfolio](https://img.shields.io/badge/Portfolio-DUT--Projects-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
 
 </div>
 
-> Raspberry Pi Pico + DHT11/LDR sensors — 6 visualization modes
+> Raspberry Pi Pico environmental monitoring system with a Python dashboard for real-time sensor data visualization
 
-`MicroPython` `Tkinter` `Pandas` `Matplotlib`
+- Real-time acquisition of **temperature, humidity, light intensity, and water detection** using Raspberry Pi Pico
+-  Python dashboard with **6 visualization modes** (individual graphs, combined charts, CSV table)
+-  Automatic **CSV logging** for data collection and analysis
+-  Interactive desktop application built with **Tkinter**, **Pandas**, and **Matplotlib**
+
+`MicroPython` `Python` `Tkinter` `Pandas` `Matplotlib` `Raspberry Pi Pico` `DHT11` `LDR`
+
+---
+<div align="center">
+
+### IoT Monitoring & Control System
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
+
+</div>
+
+> IoT monitoring and remote control platform using ESP8266, Raspberry Pi 4, MQTT, and Node-RED
+
+- Real-time monitoring of **temperature, humidity, and ambient light**
+-  **MQTT-based communication** between ESP8266 and Raspberry Pi 4 (Mosquitto broker)
+- **Node-RED dashboard** for live visualization and remote control
+-  Remote control of **LED** and **servo motor** with MQTT commands
+-  Threshold notifications and modular IoT architecture
+
+`ESP8266` `Raspberry Pi 4` `MQTT` `Mosquitto` `Node-RED` `Arduino IDE` `Python`
+
+---
+
+<div align="center">
+
+### Dashboard d'Analyse - Qualité de l'Eau
+[![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
+
+</div>
+
+> Python dashboard developed during my internship at **Alpamare Saïdia** to monitor water quality and chemical consumption
+
+-  Interactive dashboard for **water quality analysis**
+-  Monitoring of **chemical consumption** (chlorine, pH-, flocculant, anti-algae, etc.)
+-  Automated KPIs (totals, cost per customer, pH tracking)
+-  Data cleaning and transformation from **Excel**
+-  Standalone executable generated with **PyInstaller**
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `Excel` `PyInstaller`
 
 ---
 
@@ -149,7 +191,6 @@ class LaylaKaddani:
 ### Cybersecurity
 ![ANSSI](https://img.shields.io/badge/SecNumAcadémie-ANSSI-003189?style=for-the-badge)
 ![EBIOS](https://img.shields.io/badge/EBIOS-Risk%20Manager-CC0000?style=for-the-badge)
-![CVSS](https://img.shields.io/badge/CVSS-CVE-FF6600?style=for-the-badge)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ### Tools & Frameworks
@@ -164,7 +205,7 @@ class LaylaKaddani:
 
 ---
 
-## 🎓 Education
+##  Education
 
 ```
  Engineering Degree in Cybersecurity                        2025 → 2028
