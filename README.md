@@ -23,7 +23,7 @@
 ```python
   LaylaKaddani:
     role        = "Engineering Student in Cybersecurity"
-    school      = "EiJV – École d'Ingénieurs Jules Verne, Amiens (CTI, SecNumedu)"
+    school      = "EIJV – École d'Ingénieurs Jules Verne, Amiens (CTI, SecNumedu)"
     degree      = "Master's level (Bac+5) — expected 2028"
     background  = "DUT in Embedded Computing — EST Oujda, Morocco (2023–2025)"
     seeking     = "24-month Cybersecurity Apprenticeship — September 2026"
