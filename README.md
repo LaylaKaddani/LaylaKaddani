@@ -25,12 +25,11 @@ class LaylaKaddani:
     role        = "Engineering Student in Cybersecurity"
     school      = "EiJV – École d'Ingénieurs Jules Verne, Amiens (CTI, SecNumedu)"
     degree      = "Master's level (Bac+5) — expected 2028"
-    background  = "HND in Embedded Computing — EST Oujda, Morocco (2023–2025)"
+    background  = "DUT in Embedded Computing — EST Oujda, Morocco (2023–2025)"
     seeking     = "24-month Cybersecurity Apprenticeship — September 2026"
     location    = "Amiens, France 🇫🇷 | Nationwide mobility"
     languages   = ["French (Advanced)", "English (Advanced)", "Arabic (Native)"]
-    interests   = ["Embedded Security", "IoT Security", "Cyber Defense",
-                   "IAM", "Forensics", "DevSecOps", "AI Security"]
+  
 ```
 
 > 💡 **Double expertise: Embedded Systems + Cybersecurity**
@@ -38,40 +37,22 @@ class LaylaKaddani:
 
 ---
 
-## 🎯 Target Domains
+
+## Featured Projects
 
 <div align="center">
 
-| Domain | Level |
-|--------|-------|
-| 🔒 Embedded & IoT Security | ⭐⭐⭐ |
-| 🛡️ Information Systems Security | ⭐⭐⭐ |
-| 🔑 IAM & Access Control | ⭐⭐⭐ |
-| 🌐 Network & Sysadmin | ⭐⭐⭐ |
-| 🔍 SOC & Cyber Defense | ⭐⭐ |
-| 🧪 Audit & Penetration Testing | ⭐⭐ |
-| 📋 Compliance (CRA / NIS2 / IEC 62443) | ⭐⭐ |
-| 🤖 AI Security | ⭐⭐ |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔐 Smart Access Control System — Facial Recognition
+###  Smart Access Control System — Facial Recognition
 [![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
 
 </div>
 
 > Real-time biometric access control deployed on **Raspberry Pi**
 
-- 👁️ Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
-- 🖥️ Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
-- 📧 Automated **email alerts** on intrusion attempts
-- 🗄️ **MongoDB** for user and event log storage
+-  Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
+-  Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
+-  Automated **email alerts** on intrusion attempts
+-  **MongoDB** for user and event log storage
 - 🔧 Hardware: PIR sensor, servo motor, LED, buzzer
 
 `Python` `OpenCV` `dlib` `PyQt5` `MongoDB` `Raspberry Pi`
@@ -80,17 +61,17 @@ class LaylaKaddani:
 
 <div align="center">
 
-### 📱 GeoEvent — Secure Android Application
+###  GeoEvent — Secure Android Application
 [![Repo](https://img.shields.io/badge/GitHub-android--project__EIJV--25-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/android-project_EIJV-25)
 
 </div>
 
 > Location-based event sharing app — **Security Lead** on a team of 3
 
-- 🔒 **Defense in Depth** — 7 independent security layers
-- 📜 **Firestore Security Rules** — server-side data protection independent of client code
-- 🗺️ **Privacy by Design** — user location never stored, only used locally for distance filtering
-- 🛡️ Runtime GPS permissions, unexported activities, API keys protected via `.gitignore`
+-  **Defense in Depth** — 7 independent security layers
+-  **Firestore Security Rules** — server-side data protection independent of client code
+-  **Privacy by Design** — user location never stored, only used locally for distance filtering
+-  Runtime GPS permissions, unexported activities, API keys protected via `.gitignore`
 
 `Java` `Firebase Auth` `Firestore` `Google Maps SDK` `Cloudinary` `GitHub`
 
@@ -98,16 +79,16 @@ class LaylaKaddani:
 
 <div align="center">
 
-### 🤖 ARIA — Attacking & Defending a Medical AI
+###  ARIA — Attacking & Defending a Medical AI
 [![Repo](https://img.shields.io/badge/GitHub-ARIA--EIJV--2026-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/ARIA-EIJV-2026)
 
 </div>
 
 > Demonstrated a **model swap attack** on a cardiac risk detection AI — then built the defense
 
-- ⚔️ **Attack**: silent model replacement inverting all diagnoses with no visible UI change
-- 🛡️ **Defense**: **SHA-256 integrity verification** at every inference call — blocks diagnostic and triggers alert if tampering detected
-- 🏥 Model: Random Forest, 98.5% accuracy on Heart Disease UCI dataset
+-  **Attack**: silent model replacement inverting all diagnoses with no visible UI change
+-  **Defense**: **SHA-256 integrity verification** at every inference call — blocks diagnostic and triggers alert if tampering detected
+-  Model: Random Forest, 98.5% accuracy on Heart Disease UCI dataset
 
 `Python` `React` `scikit-learn` `Flask` `SHA-256`
 
@@ -115,18 +96,18 @@ class LaylaKaddani:
 
 <div align="center">
 
-### 🏙️ Smart Berkane — IoT Smart City
+### Smart Berkane — IoT Smart City
 [![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
 
 </div>
 
 > Full IoT smart city prototype with **MQTT architecture** and real-time supervision
 
-- 🌊 Flood management (ultrasonic sensor + pump relay)
-- 💡 Adaptive street lighting (LDR + PIR)
-- 🚌 Bus tracking via **RFID** on ESP32
-- 🗑️ Waste classification with **YOLOv8** (Raspberry Pi + camera)
-- 🌐 **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
+-  Flood management (ultrasonic sensor + pump relay)
+-  Adaptive street lighting (LDR + PIR)
+-  Bus tracking via **RFID** on ESP32
+-  Waste classification with **YOLOv8** (Raspberry Pi + camera)
+-  **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
 
 `Python` `Django` `MQTT` `Mosquitto` `ESP32` `ESP8266` `YOLOv8` `Tkinter` `RFID`
 
@@ -134,7 +115,7 @@ class LaylaKaddani:
 
 <div align="center">
 
-### 🌡️ Environmental Monitoring Dashboard
+###  Environmental Monitoring Dashboard
 [![Portfolio](https://img.shields.io/badge/Portfolio-DUT--Projects-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
 
 </div>
@@ -145,7 +126,7 @@ class LaylaKaddani:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -183,52 +164,30 @@ class LaylaKaddani:
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| 🏛️ Introduction EBIOS Risk Manager | Club EBIOS | April 2026 |
-| 🔐 SecNumAcadémie | ANSSI | February 2026 |
-| 🌐 CCNA Networking Essentials | Cisco NetAcad | February 2026 |
-| 🔵 Microsoft Cybersecurity Analyst | Coursera (in progress) | 2026 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaylaKaddani&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0033CC&icon_color=0033CC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaKaddani&layout=compact&theme=default&hide_border=true&title_color=0033CC"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 ```
-🎓 Engineering Degree in Cybersecurity                        2025 → 2028
+ Engineering Degree in Cybersecurity                        2025 → 2028
    EiJV – École d'Ingénieurs Jules Verne, Amiens
    CTI-accredited | SecNumedu label | RNCP40947
 
-📚 Upcoming modules:
+ Upcoming modules:
    S7: Cryptography, Risk Analysis, Secure Software Development
    S8: Penetration Testing, Network Security, Governance & Compliance,
        Forensic Analysis, Identity & Access Management
    S9: Cyber Defense & SOC, IoT Security, Hardware Security,
        AI for Security, Reverse Engineering
 
-🎓 DUT in Embedded Computing                                  2023 → 2025
+ DUT in Embedded Computing                                  2023 → 2025
    EST – École Supérieure de Technologie, Oujda, Morocco
-   Electronics | IoT | Embedded Systems | C/C++ | Java Android
+   computer science  | Electronics | IoT | Embedded Systems | Intelligent systems | C/C++ | Java | python
 ```
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect
+## Let's Connect
 
 *Open to cybersecurity apprenticeship opportunities — September 2026*
 
