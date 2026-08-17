@@ -267,7 +267,7 @@ Key Coursework:
            Intelligent Systems & IoT
            Image Processing & Applications
            Java & Embedded Systems | Android & Mobile Programming
-Mention Très Bien (16.82/20 — S1 | 17.34/20 — S2)
+Mention Très Bien (16.82/20 — Y1 | 17.34/20 — Y2)
 ```
 ---
 
