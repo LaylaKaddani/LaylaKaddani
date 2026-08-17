@@ -290,6 +290,7 @@ Mention Très Bien (16.82/20 — S1 | 17.34/20 — S2)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylakaddani2@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://laylakaddani.github.io/Portfolio_Layla.k/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0033CC&height=100&section=footer" width="100%"/>
 
 </div>
+
