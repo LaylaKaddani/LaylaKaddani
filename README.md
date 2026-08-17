@@ -60,6 +60,26 @@ class LaylaKaddani:
 
 <div align="center">
 
+### Windows Security Assessment & Active Directory Hardening Lab
+[![Repo](https://img.shields.io/badge/GitHub-Windows--Security--Assessment--Active--Directory--Hardening--Lab-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Windows-Security-Assessment-Active-Directory-Hardening-Lab)
+
+</div>
+
+> End-to-end Windows / Active Directory security lab covering **IAM, hardening, security monitoring and detection**
+
+-  Built and configured a complete **Active Directory** environment (`cyberlab.local`) with OUs, users, security groups and privileged roles
+-  Implemented **Group Policy** controls including Password Policy, Account Lockout Policy and workstation security policies
+-  Applied **Least Privilege** and **Separation of Duties (SoD)** using dedicated IT and Direction roles, with access-control validation
+-  Hardened **SMB** by disabling SMBv1 and enforcing **SMB Signing**
+-  Configured and reviewed **Windows Defender Firewall**, Windows services and remote administration exposure through **WinRM**
+-  Collected and parsed **Windows Security Event ID 4625** using PowerShell, including Logon Type and source IP analysis
+-  Developed a PowerShell-based **detection workflow** to identify repeated network authentication failures and automatically generate security alerts
+-  Produced structured security reports and CSV outputs for **Security Monitoring and Detection Engineering**
+
+`Windows Server` `Active Directory` `GPO` `IAM` `PowerShell` `SMB` `WinRM` `Windows Defender Firewall` `Security Logging` `Detection Engineering`
+
+<div align="center">
+
 ###  Smart Access Control System — Facial Recognition
 [![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
 
@@ -274,10 +294,19 @@ Upcoming:
 
 DUT Informatique option Embarquée                             2023 → 2025
 EST — École Supérieure de Technologie, Oujda, Morocco
-Electronics | IoT | C/C++ | Java Android | Linux | Image Processing
+Key Coursework:
+  Year 1 : Algorithms & C Programming | Python Data Structures
+           Linux Operating Systems & Networks
+           Microprocessors, Microcontrollers & Applications
+           Electronics
+
+  Year 2 : Arduino & Embedded C | 
+           Embedded Systems Design & Applications
+           Intelligent Systems & IoT
+           Image Processing & Applications
+           Java & Embedded Systems | Android & Mobile Programming
 Mention Très Bien (16.82/20 — S1 | 17.34/20 — S2)
 ```
-
 ---
 
 <div align="center">
