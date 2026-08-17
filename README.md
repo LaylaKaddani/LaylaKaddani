@@ -69,7 +69,7 @@ class LaylaKaddani:
 
 -  Built and configured a complete **Active Directory** environment (`cyberlab.local`) with OUs, users, security groups and privileged roles
 -  Implemented **Group Policy** controls including Password Policy, Account Lockout Policy and workstation security policies
--  Applied **Least Privilege** and **Separation of Duties (SoD)** using dedicated IT and Direction roles, with access-control validation
+-  Applied **Least Privilege** and **(SoD)** using dedicated IT and Direction roles, with access-control validation
 -  Hardened **SMB** by disabling SMBv1 and enforcing **SMB Signing**
 -  Configured and reviewed **Windows Defender Firewall**, Windows services and remote administration exposure through **WinRM**
 -  Collected and parsed **Windows Security Event ID 4625** using PowerShell, including Logon Type and source IP analysis
@@ -77,23 +77,6 @@ class LaylaKaddani:
 -  Produced structured security reports and CSV outputs for **Security Monitoring and Detection Engineering**
 
 `Windows Server` `Active Directory` `GPO` `IAM` `PowerShell` `SMB` `WinRM` `Windows Defender Firewall` `Security Logging` `Detection Engineering`
-
-<div align="center">
-
-###  Smart Access Control System — Facial Recognition
-[![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
-
-</div>
-
-> Real-time biometric access control deployed on **Raspberry Pi**
-
--  Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
--  Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
--  Automated **email alerts** on intrusion attempts
--  **MongoDB** for user and event log storage
-- 🔧 Hardware: PIR sensor, servo motor, LED, buzzer
-
-`Python` `OpenCV` `dlib` `PyQt5` `MongoDB` `Raspberry Pi`
 
 ---
 
@@ -131,7 +114,24 @@ class LaylaKaddani:
 `Python` `React` `scikit-learn` `Flask` `SHA-256`
 
 ---
+<div align="center">
 
+###  Smart Access Control System — Facial Recognition
+[![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
+
+</div>
+
+> Real-time biometric access control deployed on **Raspberry Pi**
+
+-  Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
+-  Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
+-  Automated **email alerts** on intrusion attempts
+-  **MongoDB** for user and event log storage
+- 🔧 Hardware: PIR sensor, servo motor, LED, buzzer
+
+`Python` `OpenCV` `dlib` `PyQt5` `MongoDB` `Raspberry Pi`
+
+---
 <div align="center">
 
 ### Smart Berkane — IoT Smart City
@@ -148,42 +148,6 @@ class LaylaKaddani:
 -  **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
 
 `Python` `Django` `MQTT` `Mosquitto` `ESP32` `ESP8266` `YOLOv8` `Tkinter` `RFID`
-
----
-
-<div align="center">
-
-###  Environmental Monitoring Dashboard
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
-
-</div>
-
-> Raspberry Pi Pico environmental monitoring system with a Python dashboard for real-time sensor data visualization
-
-- Real-time acquisition of **temperature, humidity, light intensity, and water detection** using Raspberry Pi Pico
--  Python dashboard with **6 visualization modes** (individual graphs, combined charts, CSV table)
--  Automatic **CSV logging** for data collection and analysis
--  Interactive desktop application built with **Tkinter**, **Pandas**, and **Matplotlib**
-
-`MicroPython` `Python` `Tkinter` `Pandas` `Matplotlib` `Raspberry Pi Pico` `DHT11` `LDR`
-
----
-<div align="center">
-
-### IoT Monitoring & Control System
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
-
-</div>
-
-> IoT monitoring and remote control platform using ESP8266, Raspberry Pi 4, MQTT, and Node-RED
-
-- Real-time monitoring of **temperature, humidity, and ambient light**
--  **MQTT-based communication** between ESP8266 and Raspberry Pi 4 (Mosquitto broker)
-- **Node-RED dashboard** for live visualization and remote control
--  Remote control of **LED** and **servo motor** with MQTT commands
--  Threshold notifications and modular IoT architecture
-
-`ESP8266` `Raspberry Pi 4` `MQTT` `Mosquitto` `Node-RED` `Arduino IDE` `Python`
 
 ---
 
