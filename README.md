@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=220&section=header&text=Layla%20KADDANI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingénieure%20Cybersécurité%20%7C%20Systèmes%20Embarqués%20%7C%20IoT&descAlignY=58&descColor=ffffff&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0033CC&height=200&section=header&text=Layla%20KADDANI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20in%20Cybersecurity%20%7C%20Embedded%20Systems&descAlignY=55&descColor=ffffff" width="100%"/>
 
 </div>
+
+---
+
 
 <div align="center">
 
