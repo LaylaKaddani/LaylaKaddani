@@ -18,7 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Layla%20KADDANI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-kaddani-125294306/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-laylakaddani.github.io-0033CC?style=for-the-badge&logo=github&logoColor=white)](https://laylakaddani.github.io/Portfolio_Layla.k/)
 [![Email](https://img.shields.io/badge/Email-laylakaddani2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylakaddani2@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-LaylaKaddani-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
