@@ -43,10 +43,10 @@ class LaylaKaddani:
     target      = "24-month Apprenticeship — September 2026"
     domains     = [
         "Embedded & IoT Security",   "Information Systems Security",
-        "Network & Sysadmin",        "SOC & Cyber Defense",
-        "IAM & Access Control",      "Audit & Penetration Testing",
+        "AI Security",               "Compliance",
+        "Network & Sysadmin",        "IAM & Access Control", 
+        "SOC & Cyber Defense",      "Audit & Penetration Testing",
         "Forensics",                 "DevSecOps",
-        "AI Security",               "Compliance (CRA / NIS2 / IEC 62443)",
         "Secure Development",        "Cybersecurity Awareness",
     ]
 
@@ -58,132 +58,131 @@ class LaylaKaddani:
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Smart Access Control — Facial Recognition
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
+###  Smart Access Control System — Facial Recognition
+[![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
 
-Real-time biometric access control on **Raspberry Pi**
+</div>
 
-- Liveness detection (eye-blink EAR — anti-spoofing)
-- Multi-page admin UI (PyQt5): live feed, user management, logs, CSV export
-- Automated email alerts on intrusion attempts
-- MongoDB for users and event logs
-- Hardware: PIR sensor, servo motor, LED, buzzer
+> Real-time biometric access control deployed on **Raspberry Pi**
+
+-  Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
+-  Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
+-  Automated **email alerts** on intrusion attempts
+-  **MongoDB** for user and event log storage
+- 🔧 Hardware: PIR sensor, servo motor, LED, buzzer
 
 `Python` `OpenCV` `dlib` `PyQt5` `MongoDB` `Raspberry Pi`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ARIA — Attacking & Defending a Medical AI
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/ARIA-EIJV-2026)
+<div align="center">
 
-Model swap attack demo + SHA-256 defense on a cardiac AI
+###  GeoEvent — Secure Android Application
+[![Repo](https://img.shields.io/badge/GitHub-android--project__EIJV--25-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/android-project_EIJV-25)
 
-- Silent model replacement inverting all diagnoses undetected
-- SHA-256 integrity check at every inference — blocks and alerts on tampering
-- Random Forest, 98.5% accuracy (Heart Disease UCI dataset)
+</div>
+
+> Location-based event sharing app — **Security Lead** on a team of 3
+
+-  **Defense in Depth** — 7 independent security layers
+-  **Firestore Security Rules** — server-side data protection independent of client code
+-  **Privacy by Design** — user location never stored, only used locally for distance filtering
+-  Runtime GPS permissions, unexported activities, API keys protected via `.gitignore`
+
+`Java` `Firebase Auth` `Firestore` `Google Maps SDK` `Cloudinary` `GitHub`
+
+---
+
+<div align="center">
+
+###  ARIA — Attacking & Defending a Medical AI
+[![Repo](https://img.shields.io/badge/GitHub-ARIA--EIJV--2026-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/ARIA-EIJV-2026)
+
+</div>
+
+> Demonstrated a **model swap attack** on a cardiac risk detection AI — then built the defense
+
+-  **Attack**: silent model replacement inverting all diagnoses with no visible UI change
+-  **Defense**: **SHA-256 integrity verification** at every inference call — blocks diagnostic and triggers alert if tampering detected
+-  Model: Random Forest, 98.5% accuracy on Heart Disease UCI dataset
 
 `Python` `React` `scikit-learn` `Flask` `SHA-256`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### GeoEvent — Secure Android App
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/android-project_EIJV-25)
-
-Location-based event sharing — Security lead on a team of 3
-
-- Defense in Depth: 7 independent security layers
-- Firestore Security Rules (server-side, independent of client)
-- Privacy by Design: GPS never stored, only used locally
-- Runtime permissions, unexported activities, API keys in .gitignore
-
-`Java` `Firebase Auth` `Firestore` `Google Maps SDK` `GitHub`
-
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
 ### Smart Berkane — IoT Smart City
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
+[![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
 
-Full IoT city prototype with MQTT + real-time supervision
+</div>
 
-- Flood management, adaptive lighting, RFID bus tracking
-- Waste classification with YOLOv8 (Raspberry Pi + camera)
-- Django web dashboard with RBAC (citizen / admin)
-- Internship @ Majal Berkane — 2 months
+> Full IoT smart city prototype with **MQTT architecture** and real-time supervision
 
-`Python` `Django` `MQTT` `Mosquitto` `ESP32` `YOLOv8` `Tkinter` `RFID`
+-  Flood management (ultrasonic sensor + pump relay)
+-  Adaptive street lighting (LDR + PIR)
+-  Bus tracking via **RFID** on ESP32
+-  Waste classification with **YOLOv8** (Raspberry Pi + camera)
+-  **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Python` `Django` `MQTT` `Mosquitto` `ESP32` `ESP8266` `YOLOv8` `Tkinter` `RFID`
 
-### Home Automation — Node-RED + MQTT
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Project-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
+---
 
-Real-time IoT dashboard with hardware control
+<div align="center">
 
-- DHT11/LDR sensors via ESP8266 + Raspberry Pi broker
-- LED and servo control via Node-RED visual flows
-- Latency < 0.5s
+###  Environmental Monitoring Dashboard
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
 
-`Node-RED` `MQTT` `Mosquitto` `ESP8266` `Raspberry Pi` `Python`
+</div>
 
-</td>
-<td width="50%" valign="top">
+> Raspberry Pi Pico environmental monitoring system with a Python dashboard for real-time sensor data visualization
 
-### Environmental Monitoring Dashboard
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Project-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
+- Real-time acquisition of **temperature, humidity, light intensity, and water detection** using Raspberry Pi Pico
+-  Python dashboard with **6 visualization modes** (individual graphs, combined charts, CSV table)
+-  Automatic **CSV logging** for data collection and analysis
+-  Interactive desktop application built with **Tkinter**, **Pandas**, and **Matplotlib**
 
-Raspberry Pi Pico + sensors — 6 visualization modes
+`MicroPython` `Python` `Tkinter` `Pandas` `Matplotlib` `Raspberry Pi Pico` `DHT11` `LDR`
 
-- DHT11 (temp/humidity), LDR (light), water sensor
-- CSV data storage + interactive Tkinter GUI
-- Combined graphs, indicators, raw data table
+---
+<div align="center">
 
-`MicroPython` `Tkinter` `Pandas` `Matplotlib`
+### IoT Monitoring & Control System
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio--DUT--Informatique--Embarque-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
 
-### Water Quality Dashboard — Aquapark
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
+> IoT monitoring and remote control platform using ESP8266, Raspberry Pi 4, MQTT, and Node-RED
 
-Internship @ Alpamare Saïdia — July 2024
+- Real-time monitoring of **temperature, humidity, and ambient light**
+-  **MQTT-based communication** between ESP8266 and Raspberry Pi 4 (Mosquitto broker)
+- **Node-RED dashboard** for live visualization and remote control
+-  Remote control of **LED** and **servo motor** with MQTT commands
+-  Threshold notifications and modular IoT architecture
 
-- pH, chlorine and chemical indicators monitoring
-- Excel data import, cleaning and structuring with Pandas
-- Delivered as standalone Windows .exe (PyInstaller)
+`ESP8266` `Raspberry Pi 4` `MQTT` `Mosquitto` `Node-RED` `Arduino IDE` `Python`
 
-`Python` `Pandas` `Seaborn` `Matplotlib` `PyInstaller` `Excel`
+---
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-### Intrusion Alarm — PIR + WhatsApp
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Project-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Portfolio-DUT-Informatique-Embarque)
+### Dashboard d'Analyse - Qualité de l'Eau
+[![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
 
-Arduino + ESP8266 connected security system
+</div>
 
-- PIR motion detection triggering buzzer + LED alarm
-- WhatsApp notification via CallMeBot API in < 5s
-- Wi-Fi communication between Arduino and ESP8266
+> Python dashboard developed during my internship at **Alpamare Saïdia** to monitor water quality and chemical consumption
 
-`Arduino` `ESP8266` `C++` `CallMeBot API`
+-  Interactive dashboard for **water quality analysis**
+-  Monitoring of **chemical consumption** (chlorine, pH-, flocculant, anti-algae, etc.)
+-  Automatically calculates key performance indicators (chemical consumption, cost per customer, and pH compliance)
+-  Data cleaning and transformation from **Excel**
+-  Standalone executable generated with **PyInstaller**
 
-</td>
-</tr>
-</table>
+`Python` `Pandas` `Matplotlib` `Seaborn` `Excel` `PyInstaller`
 
 ---
 
@@ -208,7 +207,6 @@ Arduino + ESP8266 connected security system
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
@@ -244,11 +242,11 @@ Arduino + ESP8266 connected security system
 
 | Certification | Issuer | Date |
 |:-------------|:-------|:-----|
+| Google Security Risk Management | Google / Coursera | August 2026 |
 | Introduction EBIOS Risk Manager | Club EBIOS | April 2026 |
 | SecNumAcadémie | ANSSI | February 2026 |
 | CCNA Networking Essentials | Cisco NetAcad | February 2026 |
 | Programming for Everybody (Python) | University of Michigan / Coursera | May 2024 |
-| Google Security Risk Management (in progress) | Google / Coursera | 2026 |
 
 ---
 
@@ -257,7 +255,7 @@ Arduino + ESP8266 connected security system
 ```
 Diplôme d'ingénieure Cybersécurité                            2025 → 2028
 EiJV — École d'Ingénieurs Jules Verne, Amiens
-CTI-accredited | SecNumedu | RNCP40947 | QUALIOPI
+CTI-accredited | SecNumedu | RNCP40947 
 
 Completed (Bac+3 — Year 1):
   S5 : Advanced Algorithms & Programming | Databases | Computer Architecture
@@ -287,7 +285,6 @@ Mention Très Bien (16.82/20 — S1 | 17.34/20 — S2)
 ## Open to Opportunities
 
 *Available September 2026 — 24-month apprenticeship*
-*Any domain touching cybersecurity, security, or systems*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-kaddani-125294306/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylakaddani2@gmail.com)
