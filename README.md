@@ -42,6 +42,7 @@ class LaylaKaddani:
     mindset = "I understand connected systems from their hardware logic AND their vulnerabilities."
 
 ---
+---
 
 ## Featured Projects
 
