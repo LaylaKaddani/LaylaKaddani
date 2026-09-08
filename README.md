@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0033CC&center=true&vCenter=true&width=700&lines=Seeking+a+24-month+Cybersecurity+Apprenticeship+%E2%80%94+Sept+2026;Embedded+Systems+%2B+Cybersecurity+%3D+Double+Expertise;EiJV+Engineering+Student+%7C+CTI+%7C+SecNumedu;DUT+Informatique+Embarqu%C3%A9e+%7C+EST+Oujda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0033CC&center=true&vCenter=true&width=700&lines=Seeking+a+24-month+Cybersecurity+Apprenticeship+%E2%80%94+Sept+2026;Embedded+Systems+%2B+Cybersecurity+%3D+Double+Expertise;EiJV+Engineering+Student+%7C+CTI+%7C+SecNumedu)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,22 +36,10 @@ class LaylaKaddani:
     # Education
     current     = "EiJV — Engineering Degree in Cybersecurity (CTI, SecNumedu, RNCP40947)"
     level       = "Diplôme d'ingénieure Bac+5 — expected 2028"
-    previous    = "DUT Informatique option Embarquée — EST Oujda, Morocco (2023–2025)"
 
-    # Seeking
-    target      = "24-month Apprenticeship — September 2026"
-    domains     = [
-        "Embedded & IoT Security",   "Information Systems Security",
-        "AI Security",               "Compliance",
-        "Network & Sysadmin",        "IAM & Access Control", 
-        "SOC & Cyber Defense",      "Audit & Penetration Testing",
-        "Forensics",                 "DevSecOps",
-        "Secure Development",        "Cybersecurity Awareness",
-    ]
 
     # Philosophy
     mindset = "I understand connected systems from their hardware logic AND their vulnerabilities."
-```
 
 ---
 
@@ -227,7 +215,7 @@ class LaylaKaddani:
 | Introduction EBIOS Risk Manager | Club EBIOS | April 2026 |
 | SecNumAcadémie | ANSSI | February 2026 |
 | CCNA Networking Essentials | Cisco NetAcad | February 2026 |
-| Programming for Everybody (Python) | University of Michigan / Coursera | May 2024 |
+| Programming For Everybody (Getting Started With Python) | University of Michigan / Coursera | May 2024 |
 
 ---
 
@@ -254,7 +242,7 @@ Upcoming:
        AI for Security | Reverse Engineering | Mobile Security
 
 DUT Informatique option Embarquée                             2023 → 2025
-EST — École Supérieure de Technologie, Oujda, Morocco
+EST — École Supérieure de Technologie, Oujda
 Key Coursework:
   Year 1 : Algorithms & C Programming | Python Data Structures
            Linux Operating Systems & Networks
@@ -265,7 +253,7 @@ Key Coursework:
            Embedded Systems Design & Applications
            Intelligent Systems & IoT
            Image Processing & Applications
-           Java & Embedded Systems | Android & Mobile Programming
+           Java & Embedded Systems | Android & Web dev
 Mention Très Bien (16.82/20 — Y1 | 17.34/20 — Y2)
 ```
 ---
