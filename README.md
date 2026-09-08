@@ -37,7 +37,6 @@ class LaylaKaddani:
     # Education
     current     = "EiJV — Engineering Degree in Cybersecurity (CTI, SecNumedu, RNCP40947)"
     level       = "Diplôme d'ingénieure Bac+5 — expected 2028"
-
   
 ```
 
