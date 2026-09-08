@@ -38,8 +38,7 @@ class LaylaKaddani:
     current     = "EiJV — Engineering Degree in Cybersecurity (CTI, SecNumedu, RNCP40947)"
     level       = "Diplôme d'ingénieure Bac+5 — expected 2028"
 
-    # Philosophy
-    mindset = "I understand connected systems from their hardware logic AND their vulnerabilities."
+  
 ```
 
 > I understand connected systems from both their hardware logic and their vulnerabilities.
