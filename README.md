@@ -21,6 +21,7 @@
 
 </div>
 
+
 ---
 
 ## About Me
@@ -37,122 +38,137 @@ class LaylaKaddani:
     current     = "EiJV — Engineering Degree in Cybersecurity (CTI, SecNumedu, RNCP40947)"
     level       = "Diplôme d'ingénieure Bac+5 — expected 2028"
 
-
     # Philosophy
     mindset = "I understand connected systems from their hardware logic AND their vulnerabilities."
+```
 
----
+> I understand connected systems from both their hardware logic and their vulnerabilities.
+
 ---
 
 ## Featured Projects
 
-<div align="center">
+<div
+align="center">
 
 ### Windows Security Assessment & Active Directory Hardening Lab
+
 [![Repo](https://img.shields.io/badge/GitHub-Windows--Security--Assessment--Active--Directory--Hardening--Lab-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Windows-Security-Assessment-Active-Directory-Hardening-Lab)
 
 </div>
 
 > End-to-end Windows / Active Directory security lab covering **IAM, hardening, security monitoring and detection**
 
--  Built and configured a complete **Active Directory** environment (`cyberlab.local`) with OUs, users, security groups and privileged roles
--  Implemented **Group Policy** controls including Password Policy, Account Lockout Policy and workstation security policies
--  Applied **Least Privilege** and **(SoD)** using dedicated IT and Direction roles, with access-control validation
--  Hardened **SMB** by disabling SMBv1 and enforcing **SMB Signing**
--  Configured and reviewed **Windows Defender Firewall**, Windows services and remote administration exposure through **WinRM**
--  Collected and parsed **Windows Security Event ID 4625** using PowerShell, including Logon Type and source IP analysis
--  Developed a PowerShell-based **detection workflow** to identify repeated network authentication failures and automatically generate security alerts
--  Produced structured security reports and CSV outputs for **Security Monitoring and Detection Engineering**
+- Built and configured a complete **Active Directory** environment (`cyberlab.local`) with OUs, users, security groups and privileged roles
+- Implemented **Group Policy** controls including Password Policy, Account Lockout Policy and workstation security policies
+- Applied **Least Privilege** and **(SoD)** using dedicated IT and Direction roles, with access-control validation
+- Hardened **SMB** by disabling SMBv1 and enforcing **SMB Signing**
+- Configured and reviewed **Windows Defender Firewall**, Windows services and remote administration exposure through **WinRM**
+- Collected and parsed **Windows Security Event ID 4625** using PowerShell, including Logon Type and source IP analysis
+- Developed a PowerShell-based **detection workflow** to identify repeated network authentication failures and automatically generate security alerts
+- Produced structured security reports and CSV outputs for **Security Monitoring and Detection Engineering**
 
 `Windows Server` `Active Directory` `GPO` `IAM` `PowerShell` `SMB` `WinRM` `Windows Defender Firewall` `Security Logging` `Detection Engineering`
 
 ---
 
-<div align="center">
+<div
+align="center">
 
-###  GeoEvent — Secure Android Application
+### GeoEvent — Secure Android Application
+
 [![Repo](https://img.shields.io/badge/GitHub-android--project__EIJV--25-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/android-project_EIJV-25)
 
 </div>
 
 > Location-based event sharing app — **Security Lead** on a team of 3
 
--  **Defense in Depth** — 7 independent security layers
--  **Firestore Security Rules** — server-side data protection independent of client code
--  **Privacy by Design** — user location never stored, only used locally for distance filtering
--  Runtime GPS permissions, unexported activities, API keys protected via `.gitignore`
+- **Defense in Depth** — 7 independent security layers
+- **Firestore Security Rules** — server-side data protection independent of client code
+- **Privacy by Design** — user location never stored, only used locally for distance filtering
+- Runtime GPS permissions, unexported activities, API keys protected via `.gitignore`
 
 `Java` `Firebase Auth` `Firestore` `Google Maps SDK` `Cloudinary` `GitHub`
 
 ---
 
-<div align="center">
+<div
+align="center">
 
-###  ARIA — Attacking & Defending a Medical AI
+### ARIA — Attacking & Defending a Medical AI
+
 [![Repo](https://img.shields.io/badge/GitHub-ARIA--EIJV--2026-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/ARIA-EIJV-2026)
 
 </div>
 
 > Demonstrated a **model swap attack** on a cardiac risk detection AI — then built the defense
 
--  **Attack**: silent model replacement inverting all diagnoses with no visible UI change
--  **Defense**: **SHA-256 integrity verification** at every inference call — blocks diagnostic and triggers alert if tampering detected
--  Model: Random Forest, 98.5% accuracy on Heart Disease UCI dataset
+- **Attack**: silent model replacement inverting all diagnoses with no visible UI change
+- **Defense**: **SHA-256 integrity verification** at every inference call — blocks diagnostic and triggers alert if tampering detected
+- Model: Random Forest, 98.5% accuracy on Heart Disease UCI dataset
 
 `Python` `React` `scikit-learn` `Flask` `SHA-256`
 
 ---
-<div align="center">
 
-###  Smart Access Control System — Facial Recognition
+<div
+align="center">
+
+### Smart Access Control System — Facial Recognition
+
 [![Repo](https://img.shields.io/badge/GitHub-iot--smart--security--facial--recognition-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/iot-smart-security-facial-recognition-system)
 
 </div>
 
 > Real-time biometric access control deployed on **Raspberry Pi**
 
--  Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
--  Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
--  Automated **email alerts** on intrusion attempts
--  **MongoDB** for user and event log storage
+- Facial recognition with **liveness detection** (eye-blink EAR — anti-spoofing)
+- Multi-page admin interface (PyQt5): user management, live video feed, access logs, CSV export
+- Automated **email alerts** on intrusion attempts
+- **MongoDB** for user and event log storage
 - 🔧 Hardware: PIR sensor, servo motor, LED, buzzer
 
 `Python` `OpenCV` `dlib` `PyQt5` `MongoDB` `Raspberry Pi`
 
 ---
-<div align="center">
+
+<div
+align="center">
 
 ### Smart Berkane — IoT Smart City
+
 [![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
 
 </div>
 
 > Full IoT smart city prototype with **MQTT architecture** and real-time supervision
 
--  Flood management (ultrasonic sensor + pump relay)
--  Adaptive street lighting (LDR + PIR)
--  Bus tracking via **RFID** on ESP32
--  Waste classification with **YOLOv8** (Raspberry Pi + camera)
--  **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
+- Flood management (ultrasonic sensor + pump relay)
+- Adaptive street lighting (LDR + PIR)
+- Bus tracking via **RFID** on ESP32
+- Waste classification with **YOLOv8** (Raspberry Pi + camera)
+- **Django web dashboard** with **RBAC** (citizen / admin) and real-time alerts
 
 `Python` `Django` `MQTT` `Mosquitto` `ESP32` `ESP8266` `YOLOv8` `Tkinter` `RFID`
 
 ---
 
-<div align="center">
+<div
+align="center">
 
 ### Dashboard d'Analyse - Qualité de l'Eau
+
 [![Repo](https://img.shields.io/badge/GitHub-Dashboard--Analyse--de--Donnes-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Dashboard-Analyse-de-Donnes)
 
 </div>
 
 > Python dashboard developed during my internship at **Alpamare Saïdia** to monitor water quality and chemical consumption
 
--  Interactive dashboard for **water quality analysis**
--  Monitoring of **chemical consumption** (chlorine, pH-, flocculant, anti-algae, etc.)
--  Automatically calculates key performance indicators (chemical consumption, cost per customer, and pH compliance)
--  Data cleaning and transformation from **Excel**
--  Standalone executable generated with **PyInstaller**
+- Interactive dashboard for **water quality analysis**
+- Monitoring of **chemical consumption** (chlorine, pH-, flocculant, anti-algae, etc.)
+- Automatically calculates key performance indicators (chemical consumption, cost per customer, and pH compliance)
+- Data cleaning and transformation from **Excel**
+- Standalone executable generated with **PyInstaller**
 
 `Python` `Pandas` `Matplotlib` `Seaborn` `Excel` `PyInstaller`
 
@@ -160,7 +176,11 @@ class LaylaKaddani:
 
 ## Tech Stack
 
+<div
+align="center">
+
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -175,6 +195,7 @@ class LaylaKaddani:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -184,6 +205,7 @@ class LaylaKaddani:
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ### Embedded & IoT
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -191,6 +213,7 @@ class LaylaKaddani:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases & Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -200,11 +223,14 @@ class LaylaKaddani:
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=python&logoColor=black)
 
 ### IDEs & Environments
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
 
 ---
 
@@ -225,7 +251,7 @@ class LaylaKaddani:
 ```
 Diplôme d'ingénieure Cybersécurité                            2025 → 2028
 EiJV — École d'Ingénieurs Jules Verne, Amiens
-CTI-accredited | SecNumedu | RNCP40947 
+CTI-accredited | SecNumedu | RNCP40947
 
 Completed (Bac+3 — Year 1):
   S5 : Advanced Algorithms & Programming | Databases | Computer Architecture
@@ -250,26 +276,32 @@ Key Coursework:
            Microprocessors, Microcontrollers & Applications
            Electronics
 
-  Year 2 : Arduino & Embedded C | 
+  Year 2 : Arduino & Embedded C |
            Embedded Systems Design & Applications
            Intelligent Systems & IoT
            Image Processing & Applications
            Java & Embedded Systems | Android & Web dev
 Mention Très Bien (16.82/20 — Y1 | 17.34/20 — Y2)
 ```
+
 ---
 
-<div align="center">
+<div
+align="center">
 
-## Open to Opportunities
+## Let's Connect
 
-*Available September 2026 — 24-month apprenticeship*
+*Open to cybersecurity apprenticeship opportunities — September 2026*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layla-kaddani-125294306/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylakaddani2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://laylakaddani.github.io/Portfolio_Layla.k/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0033CC&height=100&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylakaddani2@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0033CC?style=for-the-badge&logo=github&logoColor=white)](https://laylakaddani.github.io/Portfolio_Layla.k/)
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0033CC&height=100&section=footer"
+width="100%"/>
 
 </div>
 
