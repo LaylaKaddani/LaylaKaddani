@@ -135,7 +135,7 @@ align="center">
 
 ### Smart Berkane — IoT Smart City
 
-[![Repo](https://img.shields.io/badge/GitHub-Smart-City-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Smart-City)
+[![GitHub - Smart City](https://img.shields.io/badge/GitHub-Smart%20City-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/Smart-City)
 
 </div>
 
