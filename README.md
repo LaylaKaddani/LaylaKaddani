@@ -244,44 +244,6 @@ align="center">
 
 ---
 
-## Education
-
-```
-Diplôme d'ingénieure Cybersécurité                            2025 → 2028
-EiJV — École d'Ingénieurs Jules Verne, Amiens
-CTI-accredited | SecNumedu | RNCP40947
-
-Completed (Bac+3 — Year 1):
-  S5 : Advanced Algorithms & Programming | Databases | Computer Architecture
-       Networks & Communication | System Administration
-       Project Management | Enterprise Law
-  S6 : OOP | Web Development | Introduction to Cybersecurity
-       Operating Systems | Network Infrastructure & Services
-       Mobile Development | IoT & Embedded Systems
-
-Upcoming:
-  S7 : Cryptography | Risk Analysis | Secure Software Dev | OS Security
-  S8 : Pentest & Social Engineering | Network Security | Governance
-       Forensic Analysis | IAM | Data Privacy
-  S9 : Cyber Defense & SOC | IoT Security | Hardware Security
-       AI for Security | Reverse Engineering | Mobile Security
-
-DUT Informatique option Embarquée                             2023 → 2025
-EST — École Supérieure de Technologie, Oujda
-Key Coursework:
-  Year 1 : Algorithms & C Programming | Python Data Structures
-           Linux Operating Systems & Networks
-           Microprocessors, Microcontrollers & Applications
-           Electronics
-
-  Year 2 : Arduino & Embedded C |
-           Embedded Systems Design & Applications
-           Intelligent Systems & IoT
-           Image Processing & Applications
-           Java & Embedded Systems | Android & Web dev
-Mention Très Bien (16.82/20 — Y1 | 17.34/20 — Y2)
-```
-
 ---
 
 <div
