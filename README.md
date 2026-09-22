@@ -242,7 +242,6 @@ align="center">
 | CCNA Networking Essentials | Cisco NetAcad | February 2026 |
 | Programming For Everybody (Getting Started With Python) | University of Michigan / Coursera | May 2024 |
 
----
 
 ---
 
