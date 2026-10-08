@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0033CC&center=true&vCenter=true&width=700&lines=Seeking+a+24-month+Cybersecurity+Apprenticeship+%E2%80%94+Sept+2026;Embedded+Systems+%2B+Cybersecurity+%3D+Double+Expertise;EiJV+Engineering+Student+%7C+CTI+%7C+SecNumedu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0033CC&center=true&vCenter=true&width=700&lines=Seeking+a+24-month+Cybersecurity+Apprenticeship+%E2%80%94+2026;Embedded+Systems+%2B+Cybersecurity+%3D+Double+Expertise;EiJV+Engineering+Student+%7C+CTI+%7C+SecNumedu)](https://git.io/typing-svg)
 
 </div>
 
