@@ -70,6 +70,24 @@ align="center">
 
 ---
 
+<div align="center">
+
+### Web Application Security Audit — VulnApp
+
+[![Repo](https://img.shields.io/badge/GitHub-security--audit--vulnapp-0033CC?style=flat-square&logo=github)](https://github.com/LaylaKaddani/security-audit-vulnapp)
+
+</div>
+
+> Security audit of a vulnerable Web application
+
+- **Manual Code Review & Testing** — analyzed PHP code, SQL queries, HTML output, forms and access controls; performed local functional security tests.
+- **Vulnerability Assessment** — investigated SQL Injection, Stored XSS, broken access control, CSRF and server-side input validation.
+- **Security Tools** — used Semgrep for static analysis and Burp Suite for web security testing in a local lab environment.
+- **Reporting & Remediation** — produced technical reports with screenshots, code analysis, test evidence, impact assessments and mitigation recommendations.
+
+`PHP` `SQL Injection` `XSS` `Access Control` `CSRF` `Semgrep` `Burp Suite` `Docker`
+
+---
 <div
 align="center">
 
